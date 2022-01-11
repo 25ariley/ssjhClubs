@@ -1,0 +1,44 @@
+body {
+  background-color: #FEFFDB
+}
+hr{
+  border-style: none;
+  border-top-style: dashed;
+  height: 0;
+  border-color: #FFC60B;
+  width: 95%;
+  border-width: 3px;
+
+
+}
+td{
+  color: black
+
+}
+h2{
+    font-family: Courier New;
+  color: black
+}
+h3{
+font-family: Courier New;
+  color: #FF8B00
+}
+i{
+  color: #FF8B00
+}
+h4{
+  color: #FF8B00
+}
+h1{
+  text-align: center;
+  font-family: Courier New;
+  color:black
+}
+b{
+  color: black
+}
+
+p{
+  padding-right: 15em;
+
+}
